@@ -1,10 +1,10 @@
-# Tugas Praktikum 2 Pemrograman Aplikasi dan Web
+# Tugas Praktikum 2 Pengembangan Aplikasi Mobile
 
 Nama: Bening Apni Prameswari
 ---
 NIM: 123140089
 ---
-Mata Kuliah: Pemrograman Aplikasi Mobile RB
+Mata Kuliah: Pengembangan Aplikasi Mobile RB
 ---
 
 # News Feed Simulator
